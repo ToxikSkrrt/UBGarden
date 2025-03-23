@@ -1,7 +1,8 @@
 # UBGarden
 
 ## Description
-It is supposed to be a 2D Game in Java. Sadly, I was not able to do this project for personal reasons, so there is a link to the instructions for this project below.
+It is supposed to be a 2D Game in Java. Sadly, I was not able to do this project for personal reasons, so there is a link to the instructions for this project below.  
+One day, I will try to finish this project because it was really interesting.
 
 Link for instructions : https://www.reveillere.fr/POO/projet/index.html.
 
